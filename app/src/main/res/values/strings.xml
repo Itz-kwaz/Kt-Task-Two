@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">KT TaskTwo</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="avocado">Avocado</string>
+    <string name="avocado_description">One of the fruits with high health benefits
+        and a lot of haters</string>
+
+    <string name="bottle_water">Bottle Water</string>
+    <string name="water_description">The most abundant resource in the world also
+        the enemy of residents in Lagos Island. </string>
+
+    <string name="apple">Apple</string>
+    <string name="apple_description">The Fruit responsible for the demise of the human race also
+        said to keep the doctor away on daily consumption</string>
+
+    <string name="orange">Orange</string>
+    <string name="orange_description">High Vitamin C content loved by everyone although
+        the name is Orange and  it is green in Nigeria atleast</string>
+
+    <string name="meat">Meat</string>
+    <string name="meat_details">Very delicious food but I am sure vegetarians will disagree</string>
+    
+    <string name="sanitizer">Hand Sanitizer</string>
+    <string name="sanitizer_details">Neglected until 2020 but now the fate of 
+        the world rests on the shoulder of this warrior.</string>
+    
+    <string name="pineapple">Pineapple</string>
+    <string name="pineapple_description"> The house of the beloved Sponge Bob.</string>
+    
+    <string name="multiVitamins">MultiVitamins</string>
+    <string name="multiVitamins_description">Boost your immunity and protect yourself from the rona.</string>
+
+    <string name="mp3player">Mp3 Player</string>
+    <string name="mp3player_description">What is a world without music. Buy this and get exclusive access to Wizkid MIL album</string>
+
+    <string name="tissue">Tissue Paper</string>
+    <string name="tissue_description">This precious paper was a rare possession in the time of  quarantine.</string>
+
+    <string name="crown">Crown</string>
+    <string name="crown_descriptiion">Buy this crown and become the King of your World</string>
+
+    <string name="faceMask">Face Mask</string>
+    <string name="faceMask_description">A great warrior to defend you in this time of peril</string>
+    <string name="buy">Add to Bag</string>
+</resources>
